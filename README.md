@@ -4,8 +4,7 @@ A structured roadmap to mastering Data Science and Machine Learning, covering es
 ## 📂 Repository Structure  
 This roadmap is divided into multiple repositories, each focusing on a key topic in Data Science:
 
-### 1️⃣ **Math and Statistics** ➞ Basics of mathematics and statistics for ML  
-🔗 [1-Math-and-Statistics](https://github.com/Abdelrhman941/1-Math-and-Statistics)  
+### 1️⃣ [**Math and Statistics**](https://github.com/Abdelrhman941/1-Math-and-Statistics) ➞ Basics of mathematics and statistics for ML  
 
 <details>  
   <summary>🗐 Linear Algebra</summary>  
@@ -51,9 +50,8 @@ This roadmap is divided into multiple repositories, each focusing on a key topic
 
 ---
 
-### 2️⃣ **Machine Learning** ➞ Supervised and unsupervised learning algorithms  
-🔗 [2-Machine-Learning](https://github.com/Abdelrhman941/2-Machine-Learning)  
-
+### 2️⃣ [**Machine Learning**](https://github.com/Abdelrhman941/2-Machine-Learning) ➞ Supervised and unsupervised learning algorithms  
+  
 <details>
   <summary>🧠 Supervised Learning</summary>
   - Linear Regression  
@@ -75,8 +73,7 @@ This roadmap is divided into multiple repositories, each focusing on a key topic
 
 ---
 
-### 3️⃣ **Deep Learning** ➞ Neural networks, CNNs, and advanced DL techniques  
-🔗 [3-Deep-Learning](https://github.com/Abdelrhman941/3-Deep-Learning)  
+### 3️⃣ [**Deep Learning**](https://github.com/Abdelrhman941/3-Deep-Learning)  ➞ Neural networks, CNNs, and advanced DL techniques  
 
 <details>
   <summary>🔗 Artificial Neural Networks (ANN)</summary>
@@ -86,10 +83,10 @@ This roadmap is divided into multiple repositories, each focusing on a key topic
 </details>
 
 <details>
-  <summary>💬 Natural Language Processing (NLP)</summary>
-  - Word Embeddings  
-  - Transformers  
-  - Sentiment Analysis  
+  <summary>📸 Recurrent and Convolutional Networks (RCNN)</summary>
+  - LSTMs & GRUs  
+  - CNN Architectures  
+  - Object Detection  
 </details>
 
 <details>
@@ -100,29 +97,29 @@ This roadmap is divided into multiple repositories, each focusing on a key topic
 </details>
 
 <details>
-  <summary>📸 Recurrent and Convolutional Networks (RCNN)</summary>
-  - LSTMs & GRUs  
-  - CNN Architectures  
-  - Object Detection  
+  <summary>💬 Natural Language Processing (NLP)</summary>
+  - Word Embeddings  
+  - Transformers  
+  - Sentiment Analysis  
 </details>
 
 ---
 
-### 4️⃣ **Computer Vision** ➞ Image processing, object detection, and OpenCV  
-🔗 [4-Computer-Vision](https://github.com/Abdelrhman941/4-Computer-Vision)  
+### 4️⃣ [**Computer Vision**](https://github.com/Abdelrhman941/4-Computer-Vision)  ➞ Image processing, object detection, and OpenCV  
+ 
+---
 
-### 📊 **Data Visualization** ➞ Seaborn, Matplotlib, and advanced visualization  
-🔗 [Data-Visualization](https://github.com/Abdelrhman941/Data-Visualization)  
+### 📊 [**Data Visualization**](https://github.com/Abdelrhman941/Data-Visualization) ➞ Seaborn, Matplotlib, and advanced visualization  
+  
+---
 
-### 📌 **NumPy** ➞ Core numerical computations for ML  
-🔗 [NumPy](https://github.com/Abdelrhman941/NumPy)  
-
-### 📌 **Pandas** ➞ Data manipulation and preprocessing  
-🔗 [Pandas](https://github.com/Abdelrhman941/Pandas)  
-
-### 📌 **SciPy** ➞ Scientific computing and optimization  
-🔗 [SciPy](https://github.com/Abdelrhman941/SciPy)  
-
+## 👉 important libraries :
+### 📌 [**NumPy**](https://github.com/Abdelrhman941/NumPy) ➞ Core numerical computations for ML  
+  
+### 📌 [**Pandas**](https://github.com/Abdelrhman941/Pandas) ➞ Data manipulation and preprocessing  
+  
+### 📌 [**SciPy**](https://github.com/Abdelrhman941/SciPy) ➞ Scientific computing and optimization  
+  
 ---
 
 ## ⚡ How to Use This Roadmap?  
