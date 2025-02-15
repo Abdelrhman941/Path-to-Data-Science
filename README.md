@@ -1,12 +1,8 @@
 # 🚀 Path to Data Science  
 ⚠️ **Note:** This is not a traditional roadmap but a structured collection of curated resources, code, and explanations to help guide your learning process.
 
----
-
 ## 📂 Repository Structure  
 This roadmap is divided into multiple repositories, each focusing on a key topic in Data Science:
-
----
 
 ### 1️⃣ [**Math and Statistics**](https://github.com/Abdelrhman941/1-Math-and-Statistics) ➞ Basics of mathematics and statistics for ML  
 
